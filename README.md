@@ -2,12 +2,19 @@
 
 yield-game is no-loss and crypto saving platform to win interest using trustless blockchain technology. Using chainlink alarm clock, chainlink VRF function, yearn.finance and AAVE protocol
 
-This is our second phase. In first phase during Gitcoin Hack, we only introduce Chainlink Alarm clok and AAVE.
+```
+This is our second phase. 
+
+In first phase during Gitcoin Hack, we only introduce Chainlink Alarm clok and AAVE.
+
 This time we give more ability to pltform to generate interest and select trustless winner using Chainlink VRF Function.
 
-To generate interest,
-1). yield farming using yearn finance
-2). AAVE lending protocol
+To generate interest,  
+1). yield farming using yearn finance  
+2). AAVE lending protocol  
+```
+
+`Note: Pod is where all participants comes and deposit crypto tokens.`
 
 When Contract owner will create POD, It chooses method to generate interest from yearn finance(Yield Farming) or AAVE.
 And it trigger the chainlink alarm clock to wait until to finish time-period.
@@ -24,7 +31,7 @@ Let's see demo below....
 
 # Video Demo
 
-https://www.youtube.com/watch?v=IurN0H7ef-8  
+https://youtu.be/8S-6XFu8tYM
 [![Chainlink+AAVE](Screenshots/chainlinkaave.png)](https://www.youtube.com/watch?v=IurN0H7ef-8 "Alarm-POD")
 ## How to run
 
@@ -48,7 +55,7 @@ https://www.youtube.com/watch?v=IurN0H7ef-8
     - totalcontract balance generated from all of the paricipant
     - Your Investment from total pod balalnce
     - and Joining amount required to join in pod
-    - And Even live interest is accuring from AAVE protocol
+    - And Even live interest is accuring from AAVE or Yearn protocol
 ![Poddetails](Screenshots/Screenshot4.png)
 
 #### 5. After Chainlink alarm clock recognized that timer is finish, then chainlink VRF declared winner
