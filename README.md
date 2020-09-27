@@ -25,7 +25,7 @@ And during this time period any one can see live interest generate on dashboard.
 Once Time-period complete the chainlink-alarm-clock
 recognize it. and then using callback function of chainlink-alarm-clock, it triggers the chainlink VRF function to get the winner among participant using randomness functionality of VRF.
 
-once Chainlink VRF decide the winner, admin needs to disburse all the original tokens to all users and "original token + interest" to winner
+once Chainlink VRF decide the winner, admin needs to disburse all the original tokens to all users and "original token + interest" to winner.
 
 Let's see demo below....
 
